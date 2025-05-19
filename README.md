@@ -1,5 +1,5 @@
 <h1 align="center">MyEngine</h1>
-<h3 align="center">MyEngine - a game engine</h3>
+<h3 align="center">MyEngine - 2d game engine</h3>
 <p align="center">
   <img src="MyEngineLogo.png" />
 </p>
