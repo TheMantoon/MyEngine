@@ -14,4 +14,4 @@
 
 <h1 align="left"> </h1>
 <h6 align="left">¹ There is no build, the game files are converted into a single file, and then they must be placed in the shell of the game.</h6>
-<h6 align="left">² Mac Os and Linux users run MyEngine through Wine.</h6>
+<h6 align="left">² macOs and Linux users run MyEngine through Wine.</h6>
