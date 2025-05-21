@@ -1,7 +1,7 @@
 <h1 align="center">MyEngine</h1>
 <h3 align="center">MyEngine - 2d game engine</h3>
 <p align="center">
-  <img src="MyEngineLogo.png" />
+  <img src="Logo.png" />
 </p>
 
 <h1 align="left">Roadmap:</h1>
